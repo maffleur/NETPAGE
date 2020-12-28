@@ -1,0 +1,6 @@
+matplotlib==2.0.2
+mygene==3.0.0
+numpy==1.13.3
+pandas==0.21.0rc1
+scipy==1.0.0rc2
+networkx==2.2
