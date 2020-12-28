@@ -12,16 +12,6 @@ You will need Python 2.7 to use this module. A list of module dependencies can b
 ### Installation
 No installation is required. Just clone this repo to your machine, make sure you have all the packages needed, and you're ready to go!
 
-### An example
-Try reproduce the results in the `example` folder by running:
-```
-python RunNetworkSmoothingParser.py -i example/example-net -g example/example-geneburden.txt --typ burden --alpha 0.5
-```
-and
-```
-python RunNetworkSmoothingParser.py -i example/example-net -g example/example-geneburden.txt --typ burden --alpha 0.9
-```
-*NOTE:* Please make sure that your gene burden file contains a column named "PTID" containing the subject IDs.
 ### Help page
 ```
 python RunNetworkSmoothingParser.py -h
